@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\wfhConsoleApplicationNuget3\wfhConsoleApplicationNuget3\bin\Debug\wfhConsoleApplicationNuget3.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\wfhConsoleApplicationNuget3\wfhConsoleApplicationNuget3\bin\Debug\wfhConsoleApplicationNuget3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\wfhConsoleApplicationNuget3\wfhConsoleApplicationNuget3\bin\Debug\wfhConsoleApplicationNuget3.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\wfhConsoleApplicationNuget3\wfhConsoleApplicationNuget3\obj\Debug\wfhConsoleApplicationNuget3.exe
+c:\users\administrator\documents\visual studio 2015\Projects\wfhConsoleApplicationNuget3\wfhConsoleApplicationNuget3\obj\Debug\wfhConsoleApplicationNuget3.pdb
